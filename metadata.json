@@ -1,0 +1,8 @@
+{
+  "name": "WebDev Master AI",
+  "description": "An elite WebDev coding coach, customized roadmap navigator, interactive DOM compiler, and professional website generator powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
